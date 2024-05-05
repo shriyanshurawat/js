@@ -31,3 +31,11 @@ const myFunction  = function(){
 }
 
 console.log(typeof BigNumber);
+
+/*****************************************************************************************/
+
+//Stack memory use in (primitve) - it means give a copy of what we change
+
+//heap (non -  primitive) - it means when we change this datatype it entierly change the value 
+
+let myschoolName = 
