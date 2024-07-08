@@ -58,5 +58,4 @@ console.log(userone.email);
 
 
 //heap (non -  primitive) - it means when we change this datatype it entierly change the value 
-
-// let myschoolName = 
+ 
